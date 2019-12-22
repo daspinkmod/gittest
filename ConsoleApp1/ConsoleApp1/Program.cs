@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace gittestdemo
+namespace ConsoleApp1
 {
     class Program
     {
